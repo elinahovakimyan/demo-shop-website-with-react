@@ -1,0 +1,50 @@
+body {
+  background-color: #eaebed;
+}
+
+nav {
+  background-color: white;
+  margin-bottom: 0 !important;
+}
+
+img {
+  max-width: 100%;
+}
+
+.shopItem {
+  width: 250px;
+  height: 250px;
+  border-bottom: 1px gray solid;
+  display: block;
+}
+
+.itemCard {
+  background-color: white;
+  border: 1px gray solid;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 10px 5px !important;
+}
+
+.center {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.itemFooter {
+  display: inline-block;
+}
+
+.itemIcon {
+  margin: 0 10px;
+}
+
+.indItemImg {
+  max-width: 300px;
+}
+
+.carouselImg {
+  display: block;
+  margin: 0 auto;
+}
